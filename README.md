@@ -1,2 +1,3 @@
 # compiler-construction
-Repo for group assignment
+Repo for group Lab assignment
+
